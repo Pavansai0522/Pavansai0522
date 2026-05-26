@@ -50,6 +50,12 @@ I am also the founder of **Kanak Technologies**, helping businesses in India and
 
 ---
 
+## Contact
+
+- Email: **kanaktechnologies@gmail.com**
+
+---
+
 ## Education
 
 **M.S. in Data Science**  
