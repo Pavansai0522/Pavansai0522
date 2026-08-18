@@ -1,7 +1,7 @@
 # Hi, I'm Pavan Sai Dasari 👋
 ### Full-Stack Developer | Founder @ Kanak Technologies | Virginia, USA
 
-Full-stack developer with 4+ years of experience (2+ years in the US) building enterprise-grade applications for clients like **Verizon**, **Newfold Digital**, and **SF Courts**. I specialize in **Angular** and **React** frontends with **Node.js**, **Java**, and **Python** backends — and I've been increasingly focused on shipping production systems that integrate **AI/LLM automation** into real workflows.
+Full-stack developer with 3+ years of experience (2+ years in the US) building enterprise-grade applications for clients like **Verizon**, **Newfold Digital**, and **SF Courts**. I specialize in **Angular** and **React** frontends with **Node.js**, **Java**, and **Python** backends — and I've been increasingly focused on shipping production systems that integrate **AI/LLM automation** into real workflows.
 
 I am also the founder of **Kanak Technologies**, helping businesses in India and the USA launch modern, high-performance websites.
 
