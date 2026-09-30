@@ -1,55 +1,54 @@
 # Hi, I'm Pavan Sai Dasari 👋
-### Full-Stack Developer | Founder @ Kanak Technologies | Virginia, USA
+### Full-Stack & AI Engineer | Agentic AI · RAG · Java · Python · React | Virginia, USA
 
-Full-stack developer with 3+ years of experience (2+ years in the US) building enterprise-grade applications for clients like **Verizon**, **Newfold Digital**, and **SF Courts**. I specialize in **Angular** and **React** frontends with **Node.js**, **Java**, and **Python** backends — and I've been increasingly focused on shipping production systems that integrate **AI/LLM automation** into real workflows.
-
-I am also the founder of **Kanak Technologies**, helping businesses in India and the USA launch modern, high-performance websites.
+Full-stack engineer with 3+ years of experience (2+ years in the US) building enterprise applications for clients like **Verizon**, **Newfold Digital**, and **SF Courts**. I build **Angular** and **React** frontends on **Java (Spring Boot)**, **Python (FastAPI)**, and **Node.js** backends, and most of my recent work is in **agentic AI**: multi-agent systems, RAG pipelines, and knowledge graphs applied to real enterprise workflows.
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-PAVANSAI0522-black)](https://github.com/Pavansai0522)
-![OPEN TO](https://img.shields.io/badge/OPEN%20TO-SENIOR%20FRONTEND%20%2F%20FULL--STACK-blue)
-![WORK AUTHORIZATION](https://img.shields.io/badge/WORK%20AUTHORIZATION-grey)
-![OPT](https://img.shields.io/badge/OPT%20THROUGH-AUG%202027-green)
+![OPEN TO](https://img.shields.io/badge/OPEN%20TO-FULL--STACK%20%2F%20AI%20ENGINEER-blue)
+![WORK AUTHORIZATION](https://img.shields.io/badge/WORK%20AUTHORIZATION-STEM%20OPT%20THROUGH%20AUG%202027-green)
 
 ---
 
 ## Tech Stack
 
 **Frontend:** Angular · React · Next.js · TypeScript · Tailwind CSS · HTML5/CSS3
-**Backend:** Node.js · Express · NestJS · FastAPI · Python · Java · .NET · REST APIs
-**AI / LLM:** Ollama · FAISS · Neo4j · Groq API · Cursor (AI-assisted development) · Prompt Engineering
-**Database:** MongoDB · PostgreSQL · MySQL · Firebase
-**Tools:** Git · Figma · Vercel · Jenkins · Postman · Nx
+**Backend:** Java · Spring Boot · Python · FastAPI · Node.js · Express · NestJS · .NET · REST APIs · Microservices
+**AI / LLM:** Multi-Agent Orchestration · RAG · MCP · Prompt Engineering · Ollama · Groq API · FAISS · Neo4j · AWS Transform
+**Messaging:** Kafka · RabbitMQ
+**Database:** PostgreSQL · MySQL · SQL Server · MongoDB · Redis · Firebase · Supabase
+**Cloud & DevOps:** AWS · Docker · Jenkins · GitHub Actions · GitLab CI/CD · Vercel
+**Tools:** Git · Cursor (AI-assisted development) · Figma · Postman · Nx
 
 ---
 
 ## Career Highlights
 
-- **SF Courts Platform:** Led frontend development for 125+ screens, delivering end-to-end features using Angular and REST APIs.
-- **AADR Workflow Automation (Verizon):** Built a production system connecting language models and knowledge graphs (Ollama, FAISS, Neo4j) to automate enterprise Jira ticket classification and routing.
-- **PDFly:** Built a client-side-first Next.js 14 SaaS PDF editor through iterative AI-assisted development, from architecture through shipping.
-- **Kanak Technologies:** Built and launched a client platform for India/USA businesses using React, Vite, TypeScript, Tailwind, MongoDB, and Express.
-- **Verizon vRepair:** Contributed UI and API enhancements for an enterprise telecom repair platform used by thousands of end users.
-- **Newfold Digital:** Supported Angular Nx monorepo modernization for one of the largest global web hosting platforms.
+- **AADR, Agentic AI Defect Resolution (Verizon):** Built a multi-agent AI system (7 coordinated agents plus an Orchestrator) using Python, FastAPI, Ollama, FAISS, and a Neo4j knowledge graph to automate root-cause diagnosis of enterprise Jira defects. Built a Java call-graph extraction pipeline for multi-hop root-cause traversal and a validated 8-step prompt engineering framework tested across 51 repositories.
+- **Mainframe Modernization (telecom client):** Contributing to a COBOL-to-Java migration using AWS Transform for mainframe (agentic AI).
+- **SF Courts Platform:** Sole frontend lead for 125+ forms-driven screens, delivered end-to-end in Angular and React on schedule across all sprint milestones.
+- **vBuild (Verizon POC):** Worked on the orchestration layer of a project migrating legacy C++ components to Java.
+- **PDFly:** Built a client-side-first Next.js 14 SaaS PDF editor, from architecture through shipping, using AI-assisted development.
+- **Verizon vRepair & Newfold Digital:** Contributed UI and API enhancements to an enterprise telecom repair platform and to an Angular Nx monorepo modernization for a global web hosting provider.
 
 ---
 
 ## GitHub Snapshot
 
-![GitHub stats](...) ![Top languages](...)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavansai0522&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavansai0522&layout=compact&hide_border=true)
 
 ---
 
 ## Currently
 
-- Building [Kanak Technologies](link) for local businesses
-- Open to **Senior Frontend / Full-Stack** roles in the US
-- Focused on shipping scalable, maintainable enterprise web products with AI-assisted workflows
+- Building agentic AI systems for enterprise clients at Radiant Digital
+- Open to **Full-Stack / AI Engineer** roles in the US
 
 ---
 
 ## Contact
 
-- Email: kanaktechnologies@gmail.com
+- Email: pavansai.d3@gmail.com
 
 ---
 
