@@ -1,7 +1,7 @@
 # Hi, I'm Pavan Sai Dasari 👋
 ### Full-Stack & AI Engineer | Agentic AI · RAG · Java · Python · React | Virginia, USA
 
-Full-stack engineer with nearly 4 years of experience building enterprise applications for clients like **Verizon**, **Newfold Digital**, and **SF Courts**. I build **Angular** and **React** frontends on **Java (Spring Boot)**, **Python (FastAPI)**, and **Node.js** backends, and most of my recent work is in **agentic AI**: multi-agent systems, RAG pipelines, and knowledge graphs applied to real enterprise workflows.
+Full-stack engineer with 5 years of experience building enterprise applications for clients like **Verizon**, **Newfold Digital**, and **SF Courts**. I build **Angular** and **React** frontends on **Java (Spring Boot)**, **Python (FastAPI)**, and **Node.js** backends, and most of my recent work is in **agentic AI**: multi-agent systems, RAG pipelines, and knowledge graphs applied to real enterprise workflows.
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-PAVANSAI0522-black)](https://github.com/Pavansai0522)
 ![OPEN TO](https://img.shields.io/badge/OPEN%20TO-FULL--STACK%20%2F%20AI%20ENGINEER-blue)
